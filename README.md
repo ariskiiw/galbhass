@@ -1,9 +1,9 @@
-# Kado
+# 14
 -Flower code from: https://codepen.io/mdusmanansari/pen/BamepLe
 
 
 # Description
-Flower code tiktok trend 
+for mygf
 
 Responsive Web -- bisa langsung disesuikan di file css --> style.css
 
